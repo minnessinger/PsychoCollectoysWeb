@@ -1,0 +1,9 @@
+.nav-item{
+    margin-left: 5%;
+}
+.link-danger:hover{
+    color: #fff;
+}
+.fondo{
+    background-color: #400101;
+}
